@@ -1,3 +1,13 @@
+This project is a real-time, interactive music-sharing platform designed for parties or group gatherings. It allows multiple users to join the same virtual "party room" and collaboratively decide on the music playlist. Key features include:
+
+Spotify Integration: Participants can connect their Spotify accounts to queue songs, vote on which songs to play next, and skip tracks. The collective votes influence the music flow, creating a fun, democratic experience for everyone.
+
+Lyric Search: Even if users can't recall the exact song name, they can input lyrics into the search bar. The system will return the top 10 songs with the closest matching lyrics, enhancing discovery.
+
+Mood-Based Playlists: Using GPT, users can select their current mood (e.g., happy, chill, energetic), and the system will recommend the top 10 songs that match that mood, ensuring a personalized experience for everyone in the room.
+
+Musixmatch API Integration: For each song, detailed information such as lyrics, artist background, and album details are showcased via Musixmatch, enriching the listening experience with contextual knowledge.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
